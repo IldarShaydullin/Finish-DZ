@@ -1,0 +1,15 @@
+/Users/ildar/Finish DZ/bin/Debug/net6.0/Finish DZ
+/Users/ildar/Finish DZ/bin/Debug/net6.0/Finish DZ.deps.json
+/Users/ildar/Finish DZ/bin/Debug/net6.0/Finish DZ.runtimeconfig.json
+/Users/ildar/Finish DZ/bin/Debug/net6.0/Finish DZ.dll
+/Users/ildar/Finish DZ/bin/Debug/net6.0/Finish DZ.pdb
+/Users/ildar/Finish DZ/obj/Debug/net6.0/Finish DZ.csproj.AssemblyReference.cache
+/Users/ildar/Finish DZ/obj/Debug/net6.0/Finish DZ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ildar/Finish DZ/obj/Debug/net6.0/Finish DZ.AssemblyInfoInputs.cache
+/Users/ildar/Finish DZ/obj/Debug/net6.0/Finish DZ.AssemblyInfo.cs
+/Users/ildar/Finish DZ/obj/Debug/net6.0/Finish DZ.csproj.CoreCompileInputs.cache
+/Users/ildar/Finish DZ/obj/Debug/net6.0/Finish DZ.dll
+/Users/ildar/Finish DZ/obj/Debug/net6.0/refint/Finish DZ.dll
+/Users/ildar/Finish DZ/obj/Debug/net6.0/Finish DZ.pdb
+/Users/ildar/Finish DZ/obj/Debug/net6.0/Finish DZ.genruntimeconfig.cache
+/Users/ildar/Finish DZ/obj/Debug/net6.0/ref/Finish DZ.dll
